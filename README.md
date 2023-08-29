@@ -42,7 +42,7 @@ This is a simple graphical user interface (GUI) application written in Python us
 4. Execute:
 
 ```shell
-python ciphershield.py
+   python ciphershield.py
 
 ```
 
