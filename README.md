@@ -39,6 +39,13 @@ This is a simple graphical user interface (GUI) application written in Python us
    pip install cryptography
 
 ```
+4. Execute:
+
+```shell
+python ciphershield.py
+
+```
+
 ## Usage
 
 The CipherShield library provides several functions for encryption and decryption tasks. You can use these functions in your own Python scripts or as part of your projects.
