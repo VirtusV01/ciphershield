@@ -17,6 +17,33 @@ This is a simple graphical user interface (GUI) application written in Python us
 - Seamless integration with the `cryptography` library.
 - Clear and organized functions for common encryption tasks.
 
+
+## Usage on Windows
+
+### Installation with setup.exe
+
+1. Download the `setup.exe` file from the releases section on GitHub.
+2. Double-click `setup.exe` to run the installation wizard.
+3. Follow the on-screen instructions to install CipherShield on your system.
+4. Once installed, you can find CipherShield in the Start menu or on your desktop.
+
+### Running CipherShield
+
+1. After installation, locate `ciphershield.exe` in the installation directory (typically `C:\Program Files\CipherShield`).
+2. Open a Command Prompt.
+3. Navigate to the installation directory using the `cd` command.
+4. Run CipherShield by typing `ciphershield` and pressing Enter.
+
+## Usage on Linux (Command Line)
+
+### Running CipherShield
+
+1. Make sure you have Python 3.x installed on your system. You can check this by running `python3 --version`.
+2. Open a terminal.
+3. Navigate to the directory containing `ciphershield.py`.
+4. Run CipherShield by typing `python3 ciphershield.py` and pressing Enter.
+
+   
 ## Installation
 
 1. Clone the repository:
